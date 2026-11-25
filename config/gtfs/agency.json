@@ -1,5 +1,7 @@
 {
     "target_route_type_id": 0,
+    "extended_target_route_type_id": "900",
+    "extended_target_route_type_id_comment": "Tram service (Streetcar)",
     "agency_id_cleanup_regex": "^network:",
     "default_color": "E5056E",
     "default_color_comment": "PINK (from website CSS)",
